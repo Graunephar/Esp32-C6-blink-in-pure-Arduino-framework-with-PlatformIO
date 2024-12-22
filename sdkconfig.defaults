@@ -1,0 +1,8 @@
+# Set target to ESP32-C6
+CONFIG_IDF_TARGET_ESP32C6=y
+
+# Flash Configuration
+
+
+# FreeRTOS Tick Rate
+CONFIG_FREERTOS_HZ=1000
